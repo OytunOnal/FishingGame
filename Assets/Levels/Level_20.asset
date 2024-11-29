@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76ec94244b613745ac581835408ad75, type: 3}
+  m_Name: Level_20
+  m_EditorClassIdentifier: 
+  fishSpawnSettings:
+    smallFishWeight: 0.43793103
+    bigFishWeight: 0.56206894
+    bonusFishProbability: 0.099999994
+    speedMultiplier: 1.5699999
+    fishSpawnInterval: 4.62
+    fishSpawnIntervalRandomRange: 2.5
+    smallFishPool:
+    - SmallFish_1
+    - SmallFish_2
+    - SmallFish_3
+    - SmallFish_4
+    - SmallFish_5
+    bigFishPool:
+    - BigFish_1
+    - BigFish_2
+    - BigFish_3
+    - BigFish_4
+    - BigFish_5
+  scoreNeeded: 362
+  timeGiven: 80
+  environment: Tropic

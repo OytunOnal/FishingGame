@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1783a4cf64cf5b64d84430a058a508be, type: 3}
+  m_Name: SmallFishSettings
+  m_EditorClassIdentifier: 
+  points: 10
+  requiredClicks: 5
+  clickParticle: SmallFishClickParticle
+  catchParticle: SmallFishCatchParticle
+  clickSound: 4
+  catchSound: 7
+  movementSettings:
+    minFishSpeed: 1
+    maxFishSpeed: 3
+    bottomOffset: 3
+    topOffset: 3
+    floatAmount: 0.5
+    floatDuration: 1.5

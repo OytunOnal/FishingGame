@@ -1,0 +1,270 @@
+Level 1:
+Score Needed: 100
+Time Given: 90 seconds
+Small Fish Weight: 0.7
+Big Fish Weight: 0.3
+Bonus Fish Probability: 0.005%
+Speed Multiplier: 1
+Fish Spawn Interval: 5 seconds
+----------------------------------------
+Level 2:
+Score Needed: 114
+Time Given: 89 seconds
+Small Fish Weight: 0.6862069
+Big Fish Weight: 0.3137931
+Bonus Fish Probability: 0.01%
+Speed Multiplier: 1.03
+Fish Spawn Interval: 4.98 seconds
+----------------------------------------
+Level 3:
+Score Needed: 128
+Time Given: 88 seconds
+Small Fish Weight: 0.6724138
+Big Fish Weight: 0.3275862
+Bonus Fish Probability: 0.015%
+Speed Multiplier: 1.06
+Fish Spawn Interval: 4.96 seconds
+----------------------------------------
+Level 4:
+Score Needed: 141
+Time Given: 88 seconds
+Small Fish Weight: 0.6586207
+Big Fish Weight: 0.3413793
+Bonus Fish Probability: 0.02%
+Speed Multiplier: 1.09
+Fish Spawn Interval: 4.94 seconds
+----------------------------------------
+Level 5:
+Score Needed: 155
+Time Given: 87 seconds
+Small Fish Weight: 0.6448276
+Big Fish Weight: 0.3551724
+Bonus Fish Probability: 0.025%
+Speed Multiplier: 1.12
+Fish Spawn Interval: 4.92 seconds
+----------------------------------------
+Level 6:
+Score Needed: 169
+Time Given: 87 seconds
+Small Fish Weight: 0.6310345
+Big Fish Weight: 0.3689655
+Bonus Fish Probability: 0.03%
+Speed Multiplier: 1.15
+Fish Spawn Interval: 4.9 seconds
+----------------------------------------
+Level 7:
+Score Needed: 183
+Time Given: 86 seconds
+Small Fish Weight: 0.6172414
+Big Fish Weight: 0.3827586
+Bonus Fish Probability: 0.035%
+Speed Multiplier: 1.18
+Fish Spawn Interval: 4.88 seconds
+----------------------------------------
+Level 8:
+Score Needed: 197
+Time Given: 86 seconds
+Small Fish Weight: 0.6034483
+Big Fish Weight: 0.3965517
+Bonus Fish Probability: 0.04%
+Speed Multiplier: 1.21
+Fish Spawn Interval: 4.86 seconds
+----------------------------------------
+Level 9:
+Score Needed: 210
+Time Given: 85 seconds
+Small Fish Weight: 0.5896552
+Big Fish Weight: 0.4103448
+Bonus Fish Probability: 0.045%
+Speed Multiplier: 1.24
+Fish Spawn Interval: 4.84 seconds
+----------------------------------------
+Level 10:
+Score Needed: 224
+Time Given: 85 seconds
+Small Fish Weight: 0.5758621
+Big Fish Weight: 0.4241379
+Bonus Fish Probability: 0.05%
+Speed Multiplier: 1.27
+Fish Spawn Interval: 4.82 seconds
+----------------------------------------
+Level 11:
+Score Needed: 238
+Time Given: 84 seconds
+Small Fish Weight: 0.5620689
+Big Fish Weight: 0.4379311
+Bonus Fish Probability: 0.055%
+Speed Multiplier: 1.3
+Fish Spawn Interval: 4.8 seconds
+----------------------------------------
+Level 12:
+Score Needed: 252
+Time Given: 84 seconds
+Small Fish Weight: 0.5482759
+Big Fish Weight: 0.4517241
+Bonus Fish Probability: 0.06%
+Speed Multiplier: 1.33
+Fish Spawn Interval: 4.78 seconds
+----------------------------------------
+Level 13:
+Score Needed: 266
+Time Given: 83 seconds
+Small Fish Weight: 0.5344828
+Big Fish Weight: 0.4655172
+Bonus Fish Probability: 0.065%
+Speed Multiplier: 1.36
+Fish Spawn Interval: 4.76 seconds
+----------------------------------------
+Level 14:
+Score Needed: 279
+Time Given: 83 seconds
+Small Fish Weight: 0.5206897
+Big Fish Weight: 0.4793103
+Bonus Fish Probability: 0.07%
+Speed Multiplier: 1.39
+Fish Spawn Interval: 4.74 seconds
+----------------------------------------
+Level 15:
+Score Needed: 293
+Time Given: 82 seconds
+Small Fish Weight: 0.5068966
+Big Fish Weight: 0.4931034
+Bonus Fish Probability: 0.075%
+Speed Multiplier: 1.42
+Fish Spawn Interval: 4.72 seconds
+----------------------------------------
+Level 16:
+Score Needed: 307
+Time Given: 82 seconds
+Small Fish Weight: 0.4931034
+Big Fish Weight: 0.5068966
+Bonus Fish Probability: 0.08%
+Speed Multiplier: 1.45
+Fish Spawn Interval: 4.7 seconds
+----------------------------------------
+Level 17:
+Score Needed: 321
+Time Given: 81 seconds
+Small Fish Weight: 0.4793103
+Big Fish Weight: 0.5206897
+Bonus Fish Probability: 0.085%
+Speed Multiplier: 1.48
+Fish Spawn Interval: 4.68 seconds
+----------------------------------------
+Level 18:
+Score Needed: 334
+Time Given: 81 seconds
+Small Fish Weight: 0.4655172
+Big Fish Weight: 0.5344828
+Bonus Fish Probability: 0.09%
+Speed Multiplier: 1.51
+Fish Spawn Interval: 4.66 seconds
+----------------------------------------
+Level 19:
+Score Needed: 348
+Time Given: 80 seconds
+Small Fish Weight: 0.4517241
+Big Fish Weight: 0.5482758
+Bonus Fish Probability: 0.095%
+Speed Multiplier: 1.54
+Fish Spawn Interval: 4.64 seconds
+----------------------------------------
+Level 20:
+Score Needed: 362
+Time Given: 80 seconds
+Small Fish Weight: 0.437931
+Big Fish Weight: 0.5620689
+Bonus Fish Probability: 0.09999999%
+Speed Multiplier: 1.57
+Fish Spawn Interval: 4.62 seconds
+----------------------------------------
+Level 21:
+Score Needed: 376
+Time Given: 79 seconds
+Small Fish Weight: 0.4241379
+Big Fish Weight: 0.5758621
+Bonus Fish Probability: 0.105%
+Speed Multiplier: 1.6
+Fish Spawn Interval: 4.6 seconds
+----------------------------------------
+Level 22:
+Score Needed: 390
+Time Given: 79 seconds
+Small Fish Weight: 0.4103448
+Big Fish Weight: 0.5896552
+Bonus Fish Probability: 0.11%
+Speed Multiplier: 1.63
+Fish Spawn Interval: 4.58 seconds
+----------------------------------------
+Level 23:
+Score Needed: 403
+Time Given: 78 seconds
+Small Fish Weight: 0.3965517
+Big Fish Weight: 0.6034483
+Bonus Fish Probability: 0.115%
+Speed Multiplier: 1.66
+Fish Spawn Interval: 4.56 seconds
+----------------------------------------
+Level 24:
+Score Needed: 417
+Time Given: 78 seconds
+Small Fish Weight: 0.3827586
+Big Fish Weight: 0.6172414
+Bonus Fish Probability: 0.12%
+Speed Multiplier: 1.69
+Fish Spawn Interval: 4.54 seconds
+----------------------------------------
+Level 25:
+Score Needed: 431
+Time Given: 77 seconds
+Small Fish Weight: 0.3689655
+Big Fish Weight: 0.6310345
+Bonus Fish Probability: 0.125%
+Speed Multiplier: 1.72
+Fish Spawn Interval: 4.52 seconds
+----------------------------------------
+Level 26:
+Score Needed: 445
+Time Given: 77 seconds
+Small Fish Weight: 0.3551724
+Big Fish Weight: 0.6448276
+Bonus Fish Probability: 0.13%
+Speed Multiplier: 1.75
+Fish Spawn Interval: 4.5 seconds
+----------------------------------------
+Level 27:
+Score Needed: 459
+Time Given: 76 seconds
+Small Fish Weight: 0.3413793
+Big Fish Weight: 0.6586207
+Bonus Fish Probability: 0.135%
+Speed Multiplier: 1.78
+Fish Spawn Interval: 4.48 seconds
+----------------------------------------
+Level 28:
+Score Needed: 472
+Time Given: 76 seconds
+Small Fish Weight: 0.3275862
+Big Fish Weight: 0.6724138
+Bonus Fish Probability: 0.14%
+Speed Multiplier: 1.81
+Fish Spawn Interval: 4.46 seconds
+----------------------------------------
+Level 29:
+Score Needed: 486
+Time Given: 75 seconds
+Small Fish Weight: 0.3137931
+Big Fish Weight: 0.6862069
+Bonus Fish Probability: 0.145%
+Speed Multiplier: 1.84
+Fish Spawn Interval: 4.44 seconds
+----------------------------------------
+Level 30:
+Score Needed: 500
+Time Given: 75 seconds
+Small Fish Weight: 0.3
+Big Fish Weight: 0.7
+Bonus Fish Probability: 0.15%
+Speed Multiplier: 1.87
+Fish Spawn Interval: 4.42 seconds
+----------------------------------------
